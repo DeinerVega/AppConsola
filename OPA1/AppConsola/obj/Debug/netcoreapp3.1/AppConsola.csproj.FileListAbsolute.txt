@@ -1,0 +1,28 @@
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.exe
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.deps.json
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.runtimeconfig.json
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.runtimeconfig.dev.json
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.dll
+C:\Users\vdein\Downloads\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.pdb
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.csproj.AssemblyReference.cache
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.AssemblyInfoInputs.cache
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.AssemblyInfo.cs
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.dll
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.pdb
+C:\Users\vdein\Downloads\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.genruntimeconfig.cache
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.exe
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.deps.json
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.runtimeconfig.json
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.runtimeconfig.dev.json
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.dll
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\bin\Debug\netcoreapp3.1\AppConsola.pdb
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.csproj.AssemblyReference.cache
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.AssemblyInfoInputs.cache
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.AssemblyInfo.cs
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.dll
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.pdb
+C:\Users\vdein\Desktop\PRUEBA DEINER VEGA VALOYES\OPA1\AppConsola\obj\Debug\netcoreapp3.1\AppConsola.genruntimeconfig.cache

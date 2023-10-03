@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XH7VLdOzmBrh0HxCna8R0hfVktV/wdmbqjpI0rXBu2CSDux7J9C9e9yrzZXo7aETBRrdfCHeg/EpVRUzPcX2mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vdein\\Desktop\\PRUEBA DEINER VEGA VALOYES\\OPA1\\AppConsola\\AppConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vdein\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
